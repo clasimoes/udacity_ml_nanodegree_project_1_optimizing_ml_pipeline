@@ -10,7 +10,7 @@ The analyzes dataset contains data about the effectiveness of direct marketing c
 
 The best performing model to solve this problem was the Logistic Regression from SKLearn that had hyperparameters chosen by HyperDrive. It reached an accuracy of 91.63%. In contrast, the best accuracy reached by AutoML run was reached by a Voting Ensemble model and had a value of 91.58%, which was very close to the best performing model.
 
-![Screenshot](HyperDrive\ Run/Screen\ Shot\ 2020-11-10\ at\ 16.02.52.png)
+![Screenshot]("HyperDrive Run/Screen Shot 2020-11-10 at 16.02.52.png")
 
 ## Scikit-learn Pipeline
 
